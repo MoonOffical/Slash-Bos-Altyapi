@@ -1,0 +1,14 @@
+const Discord = require("discord.js")
+const db = require("croxydb");
+
+module.exports = {
+    name: "komut ismi",
+    description: "komut açiklamasi",
+    type: 1,
+    options: [],
+    run: async (client, interaction) => {
+    
+    
+    
+    }
+}
